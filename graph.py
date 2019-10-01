@@ -9,6 +9,8 @@ x = np.array([0, 20, 40, 60, 80, 100, 120, 140, 160]) #intervalo de 1 a 100
 
 #o que é o esforço computacional?????
 
+#Oi Duda! Esse é um teste.
+
 y_seq = np.array([]) #esforço computacional - busca sequencial
 y_sentinel = np.array([]) #esforço computacional - busca sequencial com sentinela
 y_bin = np.array([]) #esforço computacional - busca binaria
